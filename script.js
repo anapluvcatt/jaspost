@@ -231,7 +231,7 @@ function showPopup(sellerNumber) {
 }
 
 function copyAdminNumber() {
-  const adminNumber = "6281234567890";
+  const adminNumber = "6285183328636";
 
   navigator.clipboard.writeText(adminNumber)
     .then(() => {
